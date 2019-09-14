@@ -1,0 +1,16 @@
+{
+  "name": "ReponsiveLandingPage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main before obsecuring.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://tamirxd.github.io/responsiveLandingPage",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
